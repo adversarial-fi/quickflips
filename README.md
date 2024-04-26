@@ -7,15 +7,15 @@ Does that wallet have motion or are they a brokie? Now you can know by making se
 
 It analyzes a single-column spreadsheet with Base (On Ethereum) addresses and offers the following information for the most consistent traders based on data of the past 31 days:
 
-1. Average trade volume with United States Dollar amounts.
-2. Total trade size with United States Dollar amounts.
+1. Average trade volume with United States Dollar amount.
+2. Total trade size with United States Dollar amount.
 3. Total trades over the period.
-4. Most profitable trade with a BaseScan txid link and United States Dollar amount.
+4. Most profitable trade with a BaseScan `txid` link and United States Dollar amount.
 5. Address trade history with a Zerion history link.
 
 ### Are your wallets winners?
 
-Quickflips only shows you the top 5 most motion having addresses. Meaning, most trades made and largest cashout per address.
+Quick Flips only shows you the top 5 most motion having addresses. Meaning, most trades made and largest cashout per address.
 
 ### Coming soon (Maybe)
 
@@ -30,7 +30,7 @@ You need Python 3, a terminal, and the following `pip` modules:
 2. `requests`
 3. `pandas`
 
-You also need a [BaseScan account](https://basescan.org/register) to get an API, and a [CryptoCompare](https://www.cryptocompare.com/) account for the same purpose. Both offer free APIs.
+You also need a [BaseScan account](https://basescan.org/register) to get an API for blockchain analysis, and a [CryptoCompare](https://www.cryptocompare.com/) account to convert Ethereum to United States Dollars. Both offer free APIs.
 
 Once you get them, swap out the placeholder values in the Python script for your keys and run it on the terminal.
 
