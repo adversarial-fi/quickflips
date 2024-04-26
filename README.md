@@ -21,7 +21,7 @@ Quickflips only shows you the top 5 most motion having addresses. Meaning, most 
 - Average profit and loss per address.
 - Other stuff found interesting.
 
-### How to install
+### How to install and use
 
 You need Python 3, a terminal, and the following `pip` modules:
 
@@ -30,6 +30,10 @@ You need Python 3, a terminal, and the following `pip` modules:
 3. `pandas`
 
 You also need a [BaseScan account](https://basescan.org/register) to get an API, and a [CryptoCompare](https://www.cryptocompare.com/) account for the same purpose. Both offer free APIs.
+
+Once you get them, swap out the placeholder values in the Python script for your keys and run it on the terminal.
+
+You'll be asked for a single-column `.csv`  file with Base addresses, one address per row. Input the path and it will output the information on your screen and also as an export `.csv` file with more details.
 
 ### Last updated
 
