@@ -36,6 +36,10 @@ Once you get them, swap out the placeholder values in the Python script for your
 
 You'll be asked for a single-column `.csv`  file with Base addresses, one address per row. Input the path and it will output the information on your screen and also as an export `.csv` file with more details.
 
+### Obvious disclaimer
+
+This is script is not able to provide financial advice and any conclusions you arrive to and make decisions upon is entirely your responsibility. Just because they do a lot of trading and made a couple big bags doesn't mean said address is the key to financial freedom and buying a Lambo. Exercise causion.
+
 ### Last updated
 
 April 25th, 2024, Q2
