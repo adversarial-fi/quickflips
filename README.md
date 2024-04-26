@@ -7,8 +7,8 @@ Does that wallet have motion or are they a brokie? Now you can know by making se
 
 It analyzes a single-column spreadsheet with Base (On Ethereum) addresses and offers the following information for the most consistent traders based on data of the past 31 days:
 
-1. Average trade volume with United States Dollar amount.
-2. Total trade size with United States Dollar amount.
+1. Average trade size with United States Dollar amount.
+2. Total trade volume with United States Dollar amount.
 3. Total trades over the period.
 4. Most profitable trade with a BaseScan `txid` link and United States Dollar amount.
 5. Address trade history with a Zerion history link.
