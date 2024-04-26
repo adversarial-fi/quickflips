@@ -1,7 +1,7 @@
 ![pepe](https://github.com/adversarial-fi/quickflips/assets/168155085/de008f96-f1e2-418d-8730-3e490a04c4fd)
 # Quick Flips: Motion tracker for Base addresses.
 
-Does that wallet have motion or are they a brokie? Now you can know make sense of blockchain data.
+Does that wallet have motion or are they a brokie? Now you can know by making sense of blockchain data.
 
 ### How does it work
 
