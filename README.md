@@ -38,7 +38,7 @@ You'll be asked for a single-column `.csv`  file with Base addresses, one addres
 
 ### Obvious disclaimer
 
-This is script is not able to provide financial advice and any conclusions you arrive to and make decisions upon is entirely your responsibility. Just because they do a lot of trading and made a couple big bags doesn't mean said address is the key to financial freedom and buying a Lambo. Exercise causion.
+This is script is not able to provide financial advice and any conclusions you arrive to and make decisions upon is entirely your responsibility. Just because they do a lot of trading and made a couple big bags doesn't mean said address is the key to financial freedom and buying a Lambo. Exercise caution.
 
 ### Last updated
 
